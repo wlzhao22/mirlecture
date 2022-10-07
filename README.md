@@ -17,7 +17,7 @@ This project shares the "Multimedia Information Retrieval" course slides (in Eng
 #### Lecture 11 Recommendation System
 #### Lecture 12 Music Search and Sound Feature
 
-##Compile sample slides for lecture 6
+## Compile sample slides for lecture 6
 ```
 cd lec6/
 pdflatex mir-lect6.tex
