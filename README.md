@@ -18,10 +18,10 @@ This project shares the "Multimedia Information Retrieval" course slides (in Eng
 #### Lecture 12 Music Search and Sound Feature
 
 ##Compile sample slides for lecture 6
-``
+```
 cd let6/
 pdflatex mir-lect6.tex
-``
+```
 
 ## Copyright Issue
 Any one who receives these slides and material are free to use them. BUT when one shows them in any form or in any situation, one should point out that "**they are designed by Wan-Lei Zhao from China**".
