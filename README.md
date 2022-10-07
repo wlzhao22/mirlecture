@@ -12,7 +12,7 @@ This project shares the "Multimedia Information Retrieval" course slides (in Eng
 #### Lecture 6 Basics about Image Processing
 #### Lecture 7 Image Features: traditional global feature, traditional local feature, and deep feature
 #### Lecture 8 Image Feature Aggregation Methods
-#### Lecture 9 High-dimensional Nearest Neighbor Approaches: Tree, LSH, Qunatization and Graph-based
+#### Lecture 9 High-dimensional Nearest Neighbor Approaches: Tree, LSH, Product Qunatization, and Graph-based
 #### Lecture 10 Visual Instance Search
 #### Lecture 11 Recommendation System
 #### Lecture 12 Music Search and Sound Feature
