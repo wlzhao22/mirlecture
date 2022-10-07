@@ -1,6 +1,6 @@
 ## Lecture Slides for Multimedia Information Retrieval
 
-This project shares the "Multimedia Information Retrieval" course slides (in English) in PDF. The slides are fully written and organized by Wan-Lei Zhao (from Xiamen University, China). This course is targeted to the first year undergraduate student. 
+This project shares the "Multimedia Information Retrieval" course slides (in English) in PDF. The slides are fully written and organized by Wan-Lei Zhao (from Xiamen University, China). This course is targeted to the first year graduate student. 
 
 
 ## Syllabus
