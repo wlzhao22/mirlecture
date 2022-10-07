@@ -19,7 +19,7 @@ This project shares the "Multimedia Information Retrieval" course slides (in Eng
 
 ##Compile sample slides for lecture 6
 ```
-cd let6/
+cd lec6/
 pdflatex mir-lect6.tex
 ```
 
