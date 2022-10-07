@@ -1,0 +1,101 @@
+\documentclass[]{beamer}
+\usepackage{beamerthemesplit}
+\usepackage{graphics,epsfig}
+\usepackage{pstricks}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{subfigure}
+\usepackage{multirow}
+\usepackage{xspace}
+\usepackage{listings}
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{tikz}
+\usepackage{algpseudocode}
+\usepackage{xcolor}
+
+\mode<presentation>
+{ \usetheme{CambridgeUS}
+  \setbeamercovered{transparent}
+  \setbeamertemplate{items}[circle]
+  \setbeamertemplate{theorems}[numbered]
+%  \setbeamertemplate{footline}[frame number]
+}
+
+
+\makeatletter
+\definecolor{cornblue}{HTML}{6495ED}
+\definecolor{navyblue}{HTML}{000080}
+\definecolor{midnblue}{HTML}{191970}
+\definecolor{lghtblue}{HTML}{B0C4DE}
+\setbeamercolor{background}{fg=black, bg=lghtblue}
+%\setbeamercolor{palette primary}{fg=white, bg=lghtblue}
+\setbeamercolor{palette secondary}{fg=black, bg=cornblue}
+\setbeamercolor{palette tertiary}{fg=black, bg=lghtblue}
+\setbeamercolor{palette quaternary}{fg=black, bg=lghtblue}
+\setbeamercolor{frametitle}{fg=midnblue, bg=white}
+
+
+\useinnertheme[shadow=true]{rounded}
+\useoutertheme{shadow}
+\usecolortheme{whale}
+
+\newcommand\blfootnote[1]{
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}
+  \addtocounter{footnote}{-1}
+  \endgroup
+}
+
+
+
+\makeatletter
+
+
+\mode
+<all>
+
+\author[Wan-Lei Zhao]{WanLei Zhao}
+\title{Multimedia Technology}
+
+\makeatletter
+\DeclareRobustCommand\onedot{\futurelet\@let@token\@onedot}
+\def\@onedot{\ifx\@let@token.\else.\null\fi\xspace}
+\makeatother
+
+\begin{document}
+\begin{frame}
+   \begin{center}
+    \vspace{24pt}
+    \Huge\textbf{Multimedia Technology}\blfootnote{Email: wlzhao@xmu.edu.cn, \textit{copyrights are fully reserved by the author.}}\\
+     \Large{\mbox{Lecture 6: Fundamentals about Image Processing}}
+    \vspace{36pt}
+  \end{center}
+  \begin{align*}
+   \vspace{18pt}
+      \large{\mbox{Lecturer:}~Dr.~\mbox{Wan-Lei~~Zhao}} \\
+      \large{Autumn~~Semester~~2022} \\
+   \vspace{30pt}
+  \end{align*}
+\end{frame}
+
+\input{temps.tex}
+\input{imgbasic.tex}
+\input{imgtrans.tex}
+\input{bib.tex}
+\section{}
+\begin{frame}
+    \begin{center}
+     \vspace{1.1in}
+      \Huge{Q \& A}
+    \end{center}
+  \end{frame}
+\begin{frame}
+    \begin{center}
+     \vspace{1.1in}
+      \Huge{Thanks for your attention!}
+    \end{center}
+  \end{frame}
+\end{document}
