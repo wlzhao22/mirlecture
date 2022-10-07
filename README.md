@@ -9,7 +9,7 @@ This project shares the "Multimedia Information Retrieval" course slides (in Eng
 #### Lecture 3 Boolean model and vector model of text retrieval
 #### Lecture 4 Inverted file structure
 #### Lecture 5 Pagerank and the Evaluation Measures for Search Tasks
-#### Lecture 6 **k-means Clustering
+#### Lecture 6 *k*-means Clustering
 #### Lecture 7 Basics about Image Processing
 #### Lecture 8 Image Features: traditional global feature, traditional local feature, and deep feature
 #### Lecture 9 Image Feature Aggregation Methods
